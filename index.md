@@ -1,5 +1,6 @@
 ---
 title: How Digitalization Drives Growth in Modern Cities
+layout: post
 ---
 # The Importance of Digitalization in a Growing City
 
